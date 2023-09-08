@@ -5,5 +5,5 @@ Even so, it was an incredible experience and a great learning experience.
 I'm very interested in learning how to develop solutions for the industry through virtualization and integration of machine information in real time. 
 I have knowledge in Industrial Robotics, PLC programming and CNC Machines. 
 I like to study, ride my bike and watch movies. 
-I'm from Brazil and I don't speak English very well.
+I'm from Brazil.
 
